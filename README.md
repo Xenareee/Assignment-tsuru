@@ -7,9 +7,9 @@
 > Despite this, downloading the files and running the application is encouraged. I would be happy if this project ended up as help or inspiration.
 <br/>
 
-# <img src="images/logo-white.png" width="150px" />
+# <picture><source media="(prefers-color-scheme: dark)" srcset="images/logo-white.png"><source media="(prefers-color-scheme: light)" srcset="images/logo-black.png"><img alt="tsuru!" src="images/logo-white.png" width="150px"></picture>
 
-A website for learning kanji, with a revision system, a dictionary and more. The website is written in Polish.
+A website for learning kanji, with a revision system, kanji dictionary and more. The website is written in Polish.
 
 <br/>
 <p align="center">
