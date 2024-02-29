@@ -1,3 +1,10 @@
+This license applies to all files in the repository, with the exception of folders with their own LICENSE.md or LICENSE.txt files:
+
+- fonts/Josefin_Sans - OFL
+- images (certain images, details in LICENSE.md) - CC BY-NC-ND
+
+=======================================================================
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
